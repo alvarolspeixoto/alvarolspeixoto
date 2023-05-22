@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **alvarolspeixoto/alvarolspeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/alvarolspeixoto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarolspeixoto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alvaro's github stats" /></a> | <a href="https://github.com/alvarolspeixoto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolspeixoto&layout=compact&theme=buefy&hide_border=true" /></a>
